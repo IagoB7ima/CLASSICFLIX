@@ -1,4 +1,4 @@
 # ClassicFlix
-## Releitura da interface do site da NetFilx:movie_camera:
+## Releitura da interface do site da NETFLIX :movie_camera:
 
 https://iagob7ima.github.io/ClassicFlix/
